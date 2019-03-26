@@ -1,7 +1,7 @@
 # Vanir-systemX
 ![alt text](https://github.com/VanirLab/Vanir-systemX/blob/master/vanirIcs.png "vics")
 
-## Advanced security autmation for industry and embedded systems
+## Advanced security automation for industry and embedded systems
 
 ## GuideLine
  An essential function of the Vanir ICS is to provide details of the physical mission system so
