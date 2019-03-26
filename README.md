@@ -5,7 +5,7 @@
  An essential function of the Vanir ICS is to provide details of the physical mission system so
 that the health of that system can be assessed and appropriate control actions can be
 chosen and executed as needed. Unfortunately, complex ICS are themselves susceptible
-to failures and malicious cyber and physical attacks. A failed or compromised ICS cannot be utilized to construct an accurate representation of the mission system or to ensure that chosen controls are faithfully executed by that system. 
+to failures and malicious cyber and physical attacks. A failed or compromised Vanir ICS cannot be utilized to construct an accurate representation of the mission system or to ensure that chosen controls are faithfully executed by that system. 
 
 
 ## Missions with the Vanir systemX
