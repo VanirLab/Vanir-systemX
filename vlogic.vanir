@@ -1,0 +1,26 @@
+//VANIR LOGIC CODE SYSTEM 
+
+if L1 = 0 && H1 = 0
+then
+access = On
+alert = Off
+
+else if L1 = 1 && H2 = 2
+then
+
+alert = off
+access = Off
+
+else if L1 = 0 && H1 = 1 
+then
+alert = On!
+access = Off
+
+else 
+no change in outputs
+
+end
+
+//RESET = return 0;
+
+
