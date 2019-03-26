@@ -1,4 +1,6 @@
 # Vanir-systemX
+![alt text](https://github.com/adam-p/markdown-here/raw/master/.png "Logo Title Text 1")
+
 ## Advanced security autmation for industry and embedded systems
 
 ## GuideLine
