@@ -4,8 +4,8 @@
 
 ## Missions with the Vanir systemX
 
-[X] To reduce the exposure of the ICS to the other networks.
-[0] Use standards, formally verified software where possible.
+[x] To reduce the exposure of the ICS to the other networks.
+[] Use standards, formally verified software where possible.
 [0] Maintain a tight control on access points to the ICS.
 [0] Human team should be able to integrate historical data (including successful attacks)
 and trends, information from outside sources, and real-time data. 
